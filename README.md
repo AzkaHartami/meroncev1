@@ -1,4 +1,6 @@
 # My First React Project
+![image](https://github.com/AzkaHartami/meroncev1/assets/100275327/6291e918-74f7-4959-ab4a-478ec032edd6)
+
 
 ## Available Scripts
 
