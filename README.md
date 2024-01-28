@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# My First React Project
+![image](https://github.com/AzkaHartami/meroncev1/assets/100275327/6291e918-74f7-4959-ab4a-478ec032edd6)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
